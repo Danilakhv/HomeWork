@@ -1,0 +1,16 @@
+.text--bold {
+  color: green;
+}
+
+.parent {
+  outline: 2px solid black;
+  
+}
+
+.child {
+  outline: 4px solid red;
+}
+
+#blog {
+  /* Честно я не понял что тут делать:c */
+}
