@@ -1,0 +1,25 @@
+.block .inline {
+  font-style: 2rem;
+}
+
+.line {
+  background-color: #333;
+  height: 5px;
+  margin: 50px 0;
+}
+
+.content-1__block {
+  box-sizing: border-box;
+  padding: 50px;
+  width: 600px;
+  margin-bottom: 50px;
+  padding: 50px;
+  background-color: #957373;
+}
+
+p {
+  box-sizing: border-box; 
+  padding: 0 25px 0 25px; 
+  height: calc(50vh - 50px); 
+  overflow-y: scroll; 
+}
